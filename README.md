@@ -11,8 +11,6 @@
 
 ## :computer: Technologies I Love
 * Flutter
-* Gis
-* Data Science
 
 
 ## Programming Languages
