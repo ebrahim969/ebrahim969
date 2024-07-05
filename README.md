@@ -11,6 +11,8 @@
 
 ## :computer: Technologies I Love
 * Flutter
+* Serverpod
+* Django
 
 
 ## Programming Languages
